@@ -14,7 +14,7 @@ Kriti Monga is a certified **sports psychologist** with experience in helping at
 
 ## 🌐 Website
 
-Visit the live website: [https://theresolutemind.vercel.app](https://theresolutemind.vercel.app)
+Visit the live website: [https://resolutemind.vercel.app](https://resolutemind.vercel.app)
 
 ## 🛠️ Built With
 
