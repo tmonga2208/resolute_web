@@ -4,12 +4,12 @@ import Link from 'next/link'
 
 function ServiceCard2() {
   return (
-      <div className='flex flex-col md:flex-row text-white'>
+      <div className='flex flex-col-reverse md:flex-row text-white'>
           <div className='w-full md:w-1/2 max-h-[400px] p-2 mb-2'>
         <div className='relative my-6 max-w-[500px] max-h-[340px] object-cover'>
-                  <h2 className='text-teal-200 font-extrabold text-3xl font-mont'>CBT</h2>
-                  <h4 className='text-3xl font-mollie'>Cognitive Behavioral Therapy</h4>
-                  <p className='my-8 mr-4 font-mont'>At <span className='text-orange-400'>The Resolute Mind</span>, I use <span className='text-orange-400'> Cognitive Behavioral Therapy (CBT)</span> as a structured, science-backed, and deeply human approach to help you make that shift — not just to feel better, but to live and perform with greater clarity, control, and confidence.</p>   
+                  <h2 className='text-teal-200 font-extrabold text-3xl font-mont'>SPORTS</h2>
+                  <h4 className='text-3xl font-mollie'>and performance</h4>
+                  <p className='my-8 mr-4 font-mont'>At <span className='text-orange-400'>The Resolute Mind</span>, a dedicated <span className='text-orange-400'> Sport and Performance Psychologist</span> in India, we specialize in helping athletes and organizations unlock their full potential by cultivating mental resilience and emotional strength.</p>   
                   <Link href="" className='mt-4 text-white font-bold font-mont'>LEARN MORE <span className='text-2xl'> &#8594; </span></Link>
         </div>
        </div>
